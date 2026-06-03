@@ -1,0 +1,5 @@
+
+# Invoice data files — keep local only
+invoices/*.pdf
+KQ-Invoices.xlsx
+*.xlsx
