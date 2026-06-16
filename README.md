@@ -1,5 +1,5 @@
 
-# They double-click → pick Excel → PDFs appear. (through .exe)
+#  double-click → pick Excel → PDFs appear. (through .exe)
 
 
 # Invoice-through-excel-KQ
