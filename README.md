@@ -9,7 +9,7 @@ Usage: python generate_invoices.py <path_to_excel.xlsx>
 
 
 
-If you put the exccel file inside the same project folder or directory then (haviing excel file name 'KQ-Invoices.xlsx')
+If you put the excel file inside the same project folder or directory then (having excel file name 'KQ-Invoices.xlsx')
 
 "python3 generate_invoices.py KQ-Invoices.xlsx"
 
